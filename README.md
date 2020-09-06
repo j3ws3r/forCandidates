@@ -7,7 +7,7 @@ Nightwatch_fresh_project is a fresh project repo, which you can use to start you
 Use any of your selected command processor (shell, bash, zsh, etc.) to clone this existing repo to your project folder 
 
 ```
-git clone https://github.com/Car3ll0/nightwatch_fresh-v-001.git
+git clone https://github.com/j3ws3r/forCandidates.git
 ```
 
 ## Usage
